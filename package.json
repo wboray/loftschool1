@@ -1,0 +1,35 @@
+{
+  "name": "loftschool1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wboray/loftschool1.git"
+  },
+  "keywords": [],
+  "author": "Mikhail Filchushkin <webestet@gmail.com> (https://github.com/Dotcommando)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wboray/loftschool1/issues"
+  },
+  "homepage": "https://github.com/wboray/loftschool1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^4.0.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-cssbeautify": "^1.0.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-strip-css-comments": "^2.0.0",
+    "merge-stream": "^1.0.1"
+  }
+}
